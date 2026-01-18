@@ -1,0 +1,31 @@
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Logs
+*.log
+error_log
+
+# Database
+*.sql
+*.sqlite
+*.db
+
+# Environment files (if any)
+.env
+.env.local
+
+# Dependencies (if using composer later)
+vendor/
+node_modules/
