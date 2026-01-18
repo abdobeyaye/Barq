@@ -155,6 +155,15 @@ $translations = [
         'phone_exists' => 'رقم الهاتف مسجل بالفعل',
         'required_fields' => 'جميع الحقول مطلوبة',
         'insufficient_points' => 'نقاط غير كافية',
+        'actions' => 'الإجراءات',
+        'order' => 'طلب',
+        'rating' => 'التقييم',
+        'user' => 'المستخدم',
+        'name_en' => 'الاسم (إنجليزي)',
+        'name_ar' => 'الاسم (عربي)',
+        'leave_empty' => 'اتركه فارغاً للحفاظ على الحالي',
+        'select_districts_desc' => 'حدد المقاطعات التي تريد قبول الطلبات منها',
+        'select_districts_first' => 'يرجى تحديد مقاطعات التشغيل في الإعدادات أولاً',
     ],
     'fr' => [
         'app_name' => 'Barq',
@@ -245,6 +254,15 @@ $translations = [
         'phone_exists' => 'Téléphone déjà enregistré',
         'required_fields' => 'Tous les champs sont requis',
         'insufficient_points' => 'Points insuffisants',
+        'actions' => 'Actions',
+        'order' => 'Commande',
+        'rating' => 'Note',
+        'user' => 'Utilisateur',
+        'name_en' => 'Nom (Anglais)',
+        'name_ar' => 'Nom (Arabe)',
+        'leave_empty' => 'Laisser vide pour garder l\'actuel',
+        'select_districts_desc' => 'Sélectionnez les districts où vous souhaitez accepter des commandes',
+        'select_districts_first' => 'Veuillez d\'abord sélectionner vos districts de fonctionnement dans les paramètres',
     ]
 ];
 
